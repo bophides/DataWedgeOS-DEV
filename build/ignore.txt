@@ -1,2 +1,6 @@
 ignore and delete
 adding in folders
+
+
+needs a 'intermediates' directory grab from DW repo Campbells or USB for origin,
+files in a mac laptop
