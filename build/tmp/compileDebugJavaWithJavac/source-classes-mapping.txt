@@ -1,0 +1,2 @@
+com/darryncampbell/datawedgekotlin/BuildConfig.java
+ com.darryncampbell.datawedgekotlin.BuildConfig

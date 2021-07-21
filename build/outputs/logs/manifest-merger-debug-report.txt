@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/765a9cf21359996f7dd18dbc64e904cf/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/e81cce32c58beb1ab4fd988c5a2dc68d/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9387d331744532bc0d99cd2d06dd94e8/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1b94885277655de66cd2c055cf8108b1/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/dad14397df200cda8b55203041cdef79/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/7ee0f7138e0722d1c5ce9d0792df297f/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/64e61481845b18e7cb3f6af58f184614/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1ca96a168d7a14069718b72fe86651e0/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3184ca0f02c59bfb6d3a7631a6d6db76/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/4776453e8ad33dd303553e22c22e0f8e/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/fe42a0dfe6c0cd37c13f3fec20575d45/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/0b3ee536cc0cc259e20f7bd2f2600d64/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/f087a24ab0c889b617f04c9df1cc5f1e/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/da79fb5f16242f1ff3baf49831f53255/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/a54235baa100dbb97ed546e826eb20f0/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/ad9c4df1f1fd5cdf73b6094113917d15/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8ee724891f93c7eb74ba237c165592b0/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/85c49c9eab5e6a5f690e5e84f93f4e54/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1e18caf091c77bbf3ab8b4dccb7ac75f/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8e7b018076f3e433afbd3201cef734cf/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3a6efe57aecf72c3abfd89a139f3e4d1/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/6f05688872fa4f899aac919e1e6dc84a/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/5602c9565e2dd2451f8d048dcbdec748/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/39bea2c7713a3df126ce201adee5dcf1/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1440da7527857d0c8df702fd487c313d/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8e5fee419a2ff6704363586491846f52/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/45706338035563e134cb8f6c118d9fa1/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/462ab37bb94d4ef9ccdb66ee0ba445dc/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/d5339f66fbbf4e5c2ddd56002e417cad/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8c552d38a1ae9a4265d1b399badef0ae/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/327e36e605692d0130e1732e9e5df943/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9a259b99a6b94ee86d020424a332279a/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/f942ed44796452400f150d4d7ce3cefd/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:design:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/765a9cf21359996f7dd18dbc64e904cf/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/765a9cf21359996f7dd18dbc64e904cf/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9387d331744532bc0d99cd2d06dd94e8/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9387d331744532bc0d99cd2d06dd94e8/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3a6efe57aecf72c3abfd89a139f3e4d1/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3a6efe57aecf72c3abfd89a139f3e4d1/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/6f05688872fa4f899aac919e1e6dc84a/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/6f05688872fa4f899aac919e1e6dc84a/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3a6efe57aecf72c3abfd89a139f3e4d1/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.darryncampbell.datawedgekotlin.MainActivity
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:12:9-28:20
+	android:screenOrientation
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:14:13-45
+	android:launchMode
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:15:13-44
+	android:theme
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:21:27-74
+intent-filter#action:name:com.darryncampbell.datawedgekotlin.SCAN+category:name:android.intent.category.DEFAULT
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:23:13-27:29
+action#com.darryncampbell.datawedgekotlin.SCAN
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:24:17-82
+	android:name
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:24:25-79
+category#android.intent.category.DEFAULT
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:26:27-73
+activity#com.darryncampbell.datawedgekotlin.ConfigurationActivity
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:29:9-31:52
+	android:screenOrientation
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:30:13-50
+receiver#com.darryncampbell.datawedgekotlin.DWReceiver
+ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:33:9-36:39
+	android:enabled
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml:34:13-39
+uses-sdk
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/765a9cf21359996f7dd18dbc64e904cf/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/765a9cf21359996f7dd18dbc64e904cf/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/e81cce32c58beb1ab4fd988c5a2dc68d/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/e81cce32c58beb1ab4fd988c5a2dc68d/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9387d331744532bc0d99cd2d06dd94e8/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9387d331744532bc0d99cd2d06dd94e8/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1b94885277655de66cd2c055cf8108b1/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1b94885277655de66cd2c055cf8108b1/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/dad14397df200cda8b55203041cdef79/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/dad14397df200cda8b55203041cdef79/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/7ee0f7138e0722d1c5ce9d0792df297f/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/7ee0f7138e0722d1c5ce9d0792df297f/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/64e61481845b18e7cb3f6af58f184614/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/64e61481845b18e7cb3f6af58f184614/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1ca96a168d7a14069718b72fe86651e0/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1ca96a168d7a14069718b72fe86651e0/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3184ca0f02c59bfb6d3a7631a6d6db76/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3184ca0f02c59bfb6d3a7631a6d6db76/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/4776453e8ad33dd303553e22c22e0f8e/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/4776453e8ad33dd303553e22c22e0f8e/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/fe42a0dfe6c0cd37c13f3fec20575d45/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/fe42a0dfe6c0cd37c13f3fec20575d45/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/0b3ee536cc0cc259e20f7bd2f2600d64/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/0b3ee536cc0cc259e20f7bd2f2600d64/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/f087a24ab0c889b617f04c9df1cc5f1e/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/f087a24ab0c889b617f04c9df1cc5f1e/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/da79fb5f16242f1ff3baf49831f53255/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/da79fb5f16242f1ff3baf49831f53255/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/a54235baa100dbb97ed546e826eb20f0/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/a54235baa100dbb97ed546e826eb20f0/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/ad9c4df1f1fd5cdf73b6094113917d15/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/ad9c4df1f1fd5cdf73b6094113917d15/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8ee724891f93c7eb74ba237c165592b0/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8ee724891f93c7eb74ba237c165592b0/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/85c49c9eab5e6a5f690e5e84f93f4e54/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/85c49c9eab5e6a5f690e5e84f93f4e54/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1e18caf091c77bbf3ab8b4dccb7ac75f/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1e18caf091c77bbf3ab8b4dccb7ac75f/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8e7b018076f3e433afbd3201cef734cf/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8e7b018076f3e433afbd3201cef734cf/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3a6efe57aecf72c3abfd89a139f3e4d1/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/3a6efe57aecf72c3abfd89a139f3e4d1/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/6f05688872fa4f899aac919e1e6dc84a/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/6f05688872fa4f899aac919e1e6dc84a/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/5602c9565e2dd2451f8d048dcbdec748/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/5602c9565e2dd2451f8d048dcbdec748/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/39bea2c7713a3df126ce201adee5dcf1/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/39bea2c7713a3df126ce201adee5dcf1/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1440da7527857d0c8df702fd487c313d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/1440da7527857d0c8df702fd487c313d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8e5fee419a2ff6704363586491846f52/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8e5fee419a2ff6704363586491846f52/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/45706338035563e134cb8f6c118d9fa1/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/45706338035563e134cb8f6c118d9fa1/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/462ab37bb94d4ef9ccdb66ee0ba445dc/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/462ab37bb94d4ef9ccdb66ee0ba445dc/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/d5339f66fbbf4e5c2ddd56002e417cad/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/d5339f66fbbf4e5c2ddd56002e417cad/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8c552d38a1ae9a4265d1b399badef0ae/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Kama/.gradle/caches/transforms-2/files-2.1/8c552d38a1ae9a4265d1b399badef0ae/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/327e36e605692d0130e1732e9e5df943/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/327e36e605692d0130e1732e9e5df943/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9a259b99a6b94ee86d020424a332279a/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/9a259b99a6b94ee86d020424a332279a/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/f942ed44796452400f150d4d7ce3cefd/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Kama/.gradle/caches/transforms-2/files-2.1/f942ed44796452400f150d4d7ce3cefd/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kama/repos/DataWedgeOS-DEV/app/src/main/AndroidManifest.xml
