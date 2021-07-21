@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SigmaKoki Receipt Scanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="scan_button_text">Scan</string>
+    <string name="SAVE">create .csv</string>
+</resources>
